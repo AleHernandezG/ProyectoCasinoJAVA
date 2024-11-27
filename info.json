@@ -1,0 +1,86 @@
+[
+  {
+    "nombre": "AminTodopoderoso",
+    "email": "admin1",
+    "password": "admin1",
+    "edad": 0,
+    "genero": false
+  },
+  {
+    "nombre": "Alice",
+    "email": "alice@example.com",
+    "password": "password123",
+    "edad": 0,
+    "genero": true
+  },
+  {
+    "nombre": "Bob",
+    "email": "bob@example.com",
+    "password": "securepass",
+    "edad": 0,
+    "genero": true
+  },
+  {
+    "nombre": "Carol",
+    "email": "carol@example.com",
+    "password": "mypassword",
+    "edad": 28,
+    "genero": false
+  },
+  {
+    "nombre": "David",
+    "email": "david@example.com",
+    "password": "pass1234",
+    "edad": 22,
+    "genero": true
+  },
+  {
+    "nombre": "Eva",
+    "email": "eva@example.com",
+    "password": "evapass",
+    "edad": 35,
+    "genero": false
+  },
+  {
+    "nombre": "Frank",
+    "email": "frank@example.com",
+    "password": "frankiepass",
+    "edad": 27,
+    "genero": true
+  },
+  {
+    "nombre": "Grace",
+    "email": "grace@example.com",
+    "password": "graceful",
+    "edad": 32,
+    "genero": false
+  },
+  {
+    "nombre": "Hank",
+    "email": "hank@example.com",
+    "password": "hankpass",
+    "edad": 29,
+    "genero": true
+  },
+  {
+    "nombre": "Ivy",
+    "email": "ivy@example.com",
+    "password": "ivypass",
+    "edad": 26,
+    "genero": false
+  },
+  {
+    "nombre": "Jack",
+    "email": "jack@example.com",
+    "password": "jackpass",
+    "edad": 24,
+    "genero": true
+  },
+  {
+    "nombre": "ferguson",
+    "email": "ferGusongmail.com",
+    "password": "fersi",
+    "edad": 45,
+    "genero": false
+  }
+]

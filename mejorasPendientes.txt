@@ -1,0 +1,7 @@
+- Guardar en un JSON el ultimo usuario actual para restaurar la sesion mas rapido.
+
+- Imprimir en un PDF los resultados de una partida.
+
+- Imprimir en un PDF el historial de saldo
+
+- Acabar funcionalidad de los juegos
